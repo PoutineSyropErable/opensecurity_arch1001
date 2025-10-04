@@ -1,3 +1,6 @@
 *.log
 *.txt
 .DS_Store
+
+
+**/.gdb_history
